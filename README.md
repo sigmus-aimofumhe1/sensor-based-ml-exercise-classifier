@@ -5,6 +5,7 @@
 This project builds a machine learning model to classify barbell exercises (such as squats, bench press, and deadlifts) using time-series sensor data.
 
 ---
+![Status](https://img.shields.io/badge/status-completed-brightgreen)
 
 ## Dataset
 
