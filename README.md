@@ -25,8 +25,22 @@ This project builds a machine learning model to classify barbell exercises (such
 ---
 
 ## Results
+The model successfully classifies barbell exercises using sensor data.
 
-(To be updated)
+- Best Model: Random Forest
+- Accuracy: 99.458%
+- Evaluation: MAE - 1.02
+- Key Features: Mean, Standard Deviation, Sliding Window Features
+
+### Sample Predictions
+| Actual | Predicted |
+|--------|----------|
+| Squat  | Squat    |
+| Bench  | Bench    |
+| Deadlift | Deadlift |
+
+### Rep Counting
+A basic rep counting algorithm was implemented using signal peaks, allowing automatic counting of repetitions during exercise.
 
 ---
 
