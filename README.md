@@ -50,7 +50,7 @@ The following models were implemented and evaluated:
 The model achieves high performance in classifying barbell exercises from sensor data.
 
 - **Best Model:** Random Forest  
-- **Accuracy:** 99.458%  
+- **Accuracy:** 97.458%  
 - **MAE:** 1.02  
 - **Key Features:** Mean, standard deviation, and sliding window features  
 
